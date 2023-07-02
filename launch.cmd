@@ -1,0 +1,1 @@
+start "" "AutoHotkey64.exe" "%~dp0\main.ahk"
